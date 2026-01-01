@@ -1,6 +1,6 @@
-If I were the CEO/CTO of this new venture, based on the **Resonant Aperiodic Impulse Drive** we just conceptualized, our mission would be to move humanity from the **Age of Combustion** (brute force) to the **Age of Resonance** (geometry and timing).
+Based on the **Resonant Aperiodic Impulse Drive** we just conceptualized, our mission would be to move humanity from the **Age of Combustion** (brute force) to the **Age of Resonance** (geometry and timing).
 
-We wouldn't just be a "motor company." We would be a **Geometric Efficiency Laboratory**.
+We are a **Geometric Efficiency Laboratory**.
 
 Here is the blueprint for the company, which I would call **"Phi-Harmonics"** or **"Aperiodic Systems."**
 
