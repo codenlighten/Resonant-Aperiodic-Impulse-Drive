@@ -26,6 +26,7 @@
 - Price: $3 each or $20 for 10-pack
 - Link: https://www.amazon.com/s?k=N52+25x10x5mm+magnet
 - **Buy:** 10-pack (you'll need them for full build)
+- **⚠️ DANGER:** N52 magnets are BRITTLE (ceramic/glass). They will shatter if they snap together from distance. SLIDE them apart, never pull. Can pinch/break fingers!
 
 **Magnet Wire AWG 24**
 - Search: "magnet wire 24 AWG enameled copper"
@@ -36,7 +37,14 @@
 **Breadboard Jumper Wire Kit**
 - Search: "breadboard jumper wire kit"
 - Price: $6
-- Link: https://www.amazon.com/s?k=breadboard+jumper+wire
+- Link: https://
+
+**Kapton Tape or Electrical Tape**
+- Search: "kapton tape polyimide" or "electrical tape"
+- Price: $5-8 for Kapton, $3 for electrical
+- Link: https://www.amazon.com/s?k=kapton+tape
+- **Buy:** 1 roll
+- **PURPOSE:** Insulate ferrite core before winding (prevents wire scraping/shorting on sharp edges)www.amazon.com/s?k=breadboard+jumper+wire
 - **Buy:** 1 kit
 
 ---
@@ -61,7 +69,9 @@
 - Search: "E55 ferrite core N87" on Digi-Key
 - Alternative: B65801A0000R087 (EPCOS)
 - Price: $5-7
-- **Qty:** 1
+- **Qty:** 2 (E-cores often sold as HALVES - need 2 for one complete core!)
+- **⚠️ CRITICAL:** Check if listed as "set" or "single half"
+- **BONUS:** Add bobbin if available (E55 coil former) - $1, makes winding 100x easier
 
 **Optional: 0.01Ω Shunt Resistor**
 - Part #: WSLP3921L0100FEA
